@@ -1,10 +1,11 @@
-# 🔴⚫ My FC Seoul - Backend
+# ⚫🔴 My FC Seoul - Backend
 
 > **"오직, FC서울 팬들만을 위한 직관 아카이브 프로젝트"**
 
 ## 🔗 관련 링크
 
 - **🚀 서비스 URL (Frontend)**: [https://www.myfcseoul.com/](https://www.myfcseoul.com/)
+- **📂 API 문서 (Swagger)**: [Swagger UI](https://meethub.inwoohub.com/swagger-ui/index.html)
 - **📽 시연 영상**: [Google Drive Link](https://drive.google.com/file/d/1SaK4jr9wzXs0hiHtA1mv-TAqgKGzTz3f/view?usp=sharing)
 - **📊 발표 자료**: [Figma Deck](https://www.figma.com/deck/4Sn9B5XIb6OVuX72xdNVyU)
 
