@@ -25,6 +25,7 @@
 
 ## 2. 프로젝트 아키텍쳐
 <img width="1200" height="700" alt="Architecture" src="https://github.com/user-attachments/assets/3cd50b80-4129-450a-a82b-cbc3c09a51e0" />
+</br>
 
 
 ## 2. 개발 전략
